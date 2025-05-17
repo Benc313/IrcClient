@@ -31,7 +31,6 @@ dotnet run --project IrcClient
 2. Enter the server address.
 3.  Use the following commands in the chat:
    - /nick <new_nick> — Change your nickname
-   - /join <#channel> — Join a different channel
    - /msg <user> <message> — Send a private message
    - /list — List available channels
    - /quit — Exit the client
